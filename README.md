@@ -1,0 +1,2 @@
+sails-generate-crud
+===================
